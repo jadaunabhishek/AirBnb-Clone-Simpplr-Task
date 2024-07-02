@@ -1,5 +1,6 @@
 # AirBnb Clone: Elevating Lodging with Seamless Booking Experiences
 Tech used: JavaScript, MongoDB, Express.js, React.js, Node.js, Docker, APIs.
+
 • Empowered travellers by providing seamless lodging booking experiences. Streamlined bookings with intuitive interfaces for memorable
 stays, optimised accommodation solutions, and ensured seamless bookings, enriching travel experiences.
 

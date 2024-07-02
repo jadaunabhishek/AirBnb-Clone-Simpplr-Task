@@ -1,3 +1,16 @@
+# AirBnb Clone: Elevating Lodging with Seamless Booking Experiences
+Tech used: JavaScript, MongoDB, Express.js, React.js, Node.js, Docker, APIs.
+• Empowered travellers by providing seamless lodging booking experiences. Streamlined bookings with intuitive interfaces for memorable
+stays, optimised accommodation solutions, and ensured seamless bookings, enriching travel experiences.
+
+# Desktop View
+<img width="1680" alt="Screenshot 2024-07-03 at 1 06 27 AM" src="https://github.com/jadaunabhishek/AirBnb-Clone-Simpplr-Task/assets/103330752/1d5d440c-edbe-48aa-b938-1694241d310a">
+
+# Mobile View 
+![IMG_2176](https://github.com/jadaunabhishek/AirBnb-Clone-Simpplr-Task/assets/103330752/d27ee672-3e1e-4599-9583-24ee0348970f)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
